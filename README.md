@@ -18,6 +18,8 @@ Zoom Video Looper is a python tool that loops your video in zoom meetings by abu
 
 ### Setup
 
+- Disable all the camera sources in your computer.
+
 - Capture a video of yourself like listening or writing or anything else appropriate to the Zoom meeting.
 
 - Convert the video as frames using https://ezgif.com/video-to-jpg
