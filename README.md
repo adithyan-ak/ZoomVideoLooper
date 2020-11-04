@@ -2,7 +2,6 @@
 
 <h5 align="center">
   <br>
-  <a href="https://github.com/adithyan-ak/ZoomVideoLooper"><img src="https://i.imgur.com/yXBcijO.gif" alt="Zoom Video Looper"></a>
   <br>
   Zoom Video Looper
   <br>
@@ -30,7 +29,6 @@ Zoom Video Looper is a python tool that loops your video in zoom meetings by abu
 
 - Click ```+``` button and add the images from the extracted folder in order one by one.
 
-<a href="https://github.com/adithyan-ak/ZoomVideoLooper"><img src="https://i.imgur.com/dNgDqYA.gif" alt="Import Images as Zoom Backgrounds"></a>
 
 - Now, Clone this repository in your terminal.
 
@@ -41,8 +39,6 @@ Zoom Video Looper is a python tool that loops your video in zoom meetings by abu
 - Join a Zoom Meeting and Click on Join Video.
 
 - Click Choose Virtual Background in Video settings.
-
-<a href="https://github.com/adithyan-ak/ZoomVideoLooper"><img src="https://i.imgur.com/Rde4b2H.gif" alt="Open Virtual background settings"></a>
 
 - In the terminal, type
 
